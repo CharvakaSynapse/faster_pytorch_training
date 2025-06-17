@@ -44,7 +44,7 @@ A modern, reproducible benchmark for efficient large-scale image classification.
 ## 📊 Visualization
 
 <p align="center">
-  <img src="<!-- Paste your matplotlib plot here or upload to repo and link -->" width="700">
+  <img src="trainspeed.png" width="700">
 </p>
 
 ---
